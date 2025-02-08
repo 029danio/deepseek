@@ -1,7 +1,9 @@
 # DeepSeek本地免费部署
 1、本地部署，我们可以通过Ollama来进行安装
+
 Ollama 官方版：【[点击前往](https://ollama.com/)】
-安装命令：
+
+## 安装命令：
 ### 1.5B Qwen DeepSeek R1
 
 ollama run deepseek-r1:1.5b
