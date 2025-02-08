@@ -7,22 +7,27 @@ Ollama 官方版：【[点击前往](https://ollama.com/)】
 ### 👉 1.5B Qwen DeepSeek R1：
 
 ollama run deepseek-r1:1.5b
+
 ---------------------------------------
 ### 👉 7B Qwen DeepSeek R1：
 
 ollama run deepseek-r1:7b
+
 ---------------------------------------
 ### 👉 8B Llama DeepSeek R1：
 
 ollama run deepseek-r1:8b
+
 ---------------------------------------
 ### 👉 14B Qwen DeepSeek R1：
 
 ollama run deepseek-r1:14b
+
 ---------------------------------------
 ### 👉 32B Qwen DeepSeek R1：
 
 ollama run deepseek-r1:32b
+
 ---------------------------------------
 ### 👉  70B Llama DeepSeek R1：
 
