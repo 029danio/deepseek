@@ -1,5 +1,5 @@
 # DeepSeek本地免费部署
-1、本地部署，我们可以通过Ollama来进行安装
+## 1、本地部署，我们可以通过Ollama来进行安装
 
 Ollama 官方版：【[点击前往](https://ollama.com/)】
 
@@ -32,3 +32,15 @@ ollama run deepseek-r1:32b
 ### 👉  70B Llama DeepSeek R1（推荐显卡80GB以上使用）：
 
 ollama run deepseek-r1:70b
+
+
+## 2. AnythingLLM 下载
+1、Github 开源版 【[点击下载](https://github.com/Mintplex-Labs/anything-llm)】
+
+2、官方版：【[点击下载](https://anythingllm.com/)】
+
+ 
+
+注意：本地部署也是支持开启联网搜索模式的
+
+只需在AnythingLLM的设置界面中，找到“代理技能”选项。 启用Web Search：在代理技能列表中找到 Web Search ，点击开启。 选择搜索引擎即可！
