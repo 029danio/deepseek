@@ -24,11 +24,11 @@ ollama run deepseek-r1:8b
 ollama run deepseek-r1:14b
 
 ---------------------------------------
-### 👉 32B Qwen DeepSeek R1：
+### 👉 32B Qwen DeepSeek R1（推荐显卡40GB-80GB以上使用）：
 
 ollama run deepseek-r1:32b
 
 ---------------------------------------
-### 👉  70B Llama DeepSeek R1：
+### 👉  70B Llama DeepSeek R1（推荐显卡80GB以上使用）：
 
 ollama run deepseek-r1:70b
