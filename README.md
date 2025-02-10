@@ -44,3 +44,5 @@ ollama run deepseek-r1:70b
 ## 注意：本地部署也是支持开启联网搜索模式的
 
 只需在AnythingLLM的设置界面中，找到“代理技能”选项。 启用Web Search：在代理技能列表中找到 Web Search ，点击开启。 选择搜索引擎即可！
+
+[翻墙机场推荐 | 好用稳定机场节点 | 机场评测 | 秒杀VPN](https://github.com/029danio/fly)
